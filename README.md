@@ -9,7 +9,8 @@ fast in places -- use the pause and replay on the
 video as necessary.
 * When the topic of the presentation is a statistical 
 method, it is assumed that the viewer has already 
-studied the method in the book. 
+studied the method  and is looking for a demonstration
+of how to apply the method in R.
 
 The order of presentations is:
 
