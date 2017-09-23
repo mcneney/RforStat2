@@ -18,32 +18,21 @@ at SFU.
     + Data sets as "objects" in R
     + `read.csv()`
     + `read.table()`
-    
-3. Print, view and edit datasets
-    + `print()` and `summary()`
-    + `View()` and `edit()`
+    + `print()`, `summary()`, `View()` and `edit()`
 
-4. R packages
+3. R packages
     + What are packages?
     + Installing packages (optional)
     + Loading packages
-    
-5. The "tidyverse"
-    + What is tidy data?
-    + Data summaries with `dplyr`
-    + Graphics with `ggplot2`
+    + The "tidyverse"
 
-6. Stat 1 in R, part 1
+4. Stat 1 in R
     + t-tests
     + Inference for proportions
-
-7. Stat 1 in R, part 2
     + Tables and chi-square tests
-
-8. Stat 1 in R, part 3
     + Simple linear regression
     
-7. Multiple regression 
+5. Multiple regression 
     + Fitting a model: model formula
     + Model summaries
     + Extracting components of a fitted model
