@@ -18,22 +18,24 @@ at SFU.
     + Data sets as "objects" in R
     + `read.csv()`
     + `read.table()`
-    + `print()`, `summary()`, `View()` and `edit()`
+    + `head()`, `print()`, `summary()`
+    + `View()` (optional)
 
-3. R packages
+3. Extending R and R packages
+    + Writing your own functions
     + What are packages?
     + Installing packages (optional)
     + Loading packages
     + The "tidyverse"
 
 4. Stat 1 in R
-    + t-tests
+    + Inference for means
     + Inference for proportions
     + Tables and chi-square tests
     + Simple linear regression
     
 5. Multiple regression 
-    + Fitting a model: model formula
+    + Fitting a model: model formulas and data
     + Model summaries
     + Extracting components of a fitted model
     + Regression diagnostics
