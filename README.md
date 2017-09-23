@@ -2,7 +2,9 @@
 
 This repository contains notes to be read during short 
 video presentations for students using R in a second course 
-in statistics at SFU.
+in statistics at SFU. The presentations were prepared
+by Jinko Graham and Brad McNeney, Department of 
+Statistics and Actuarial Science, Simon Fraser University.
 
 * Presentations are meant to be short and may go 
 fast in places -- use the pause and replay on the 
@@ -13,6 +15,8 @@ studied the method  and is looking for a demonstration
 of how to apply the method in R.
 
 The order of presentations is:
+
+0. Overview (this file)
 
 1. Getting started
     + What is R?
@@ -36,14 +40,7 @@ The order of presentations is:
     + Loading packages
     + The "tidyverse"
 
-4. Stat 1 in R
-    + Inference for means
-    + Inference for proportions
-    + Tables and chi-square tests
-    + Simple linear regression
+4. Inference for means and proportions
+    + Inference for means with `t.test()`
+    + Inference for proportions with `prop.test()`
     
-5. Multiple regression 
-    + Fitting a model: model formulas and data
-    + Model summaries
-    + Extracting components of a fitted model
-    + Regression diagnostics
