@@ -3,6 +3,14 @@
 This repository contains notes to be read during short 
 video presentations for students using R in a second course 
 in statistics at SFU.
+
+* Presentations are meant to be short and may go 
+fast in places -- use the pause and replay on the 
+video as necessary.
+* When the topic of the presentation is a statistical 
+method, it is assumed that the viewer has already 
+studied the method in the book. 
+
 The order of presentations is:
 
 1. Getting started
